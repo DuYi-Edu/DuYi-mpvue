@@ -1,0 +1,4 @@
+/* components/custom.wxss */
+.s{
+  white-space: nowrap
+}
