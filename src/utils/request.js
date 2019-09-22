@@ -1,0 +1,45 @@
+export default {
+    fenjing:[
+        {
+            img:"https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2595508360,28762262&fm=26&gp=0.jpg",
+            title:"湖南张家界必玩3天攻略"
+        },
+        {
+            img:"https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1399204311,3726649187&fm=26&gp=0.jpg",
+            title:"桂林山水小住指南"
+        },
+        {
+            img:"https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1679836227,3289398866&fm=26&gp=0.jpg",
+            title:"内蒙古草原摄影纪实"
+        },
+    ],
+    hotels:[
+        {
+            img:'https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1370110766,2632106604&fm=26&gp=0.jpg',
+            title:'朵儿现代化酒店公寓'
+        },
+        {
+            img:'https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1747835300,1256224125&fm=26&gp=0.jpg',
+            title:'亚克力豪华大酒店'
+        },
+        {
+            img:'https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3343443072,331439041&fm=26&gp=0.jpg',
+            title:'俄罗斯经典皇家大酒店'
+        }
+    ],
+
+    data:[
+        {
+            img:"http://img5.imgtn.bdimg.com/it/u=3726713045,2477005804&fm=26&gp=0.jpg",
+            title:"湖南张家界必玩3天攻略"
+        },
+        {
+            img:"https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=61873330,1580797904&fm=26&gp=0.jpg",
+            title:"桂林山水小住指南"
+        },
+        {
+            img:"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2388959985,1883573804&fm=26&gp=0.jpg",
+            title:"内蒙古草原摄影纪实"
+        },
+    ]
+}
