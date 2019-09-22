@@ -1,0 +1,7 @@
+<scroll-view>
+  <view>
+    <navigator>社会新闻</navigator>
+    <navigator>国际新闻</navigator>
+    <navigator>国内新闻</navigator>
+  </view>
+</scroll-view>
