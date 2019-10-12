@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/more/main",
+    "pages/custom/main",
+    "pages/logs/main"  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "送祝福",
+    "navigationBarTextStyle": "black"
+  }
+  
+}
