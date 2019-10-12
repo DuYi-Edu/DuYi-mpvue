@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/home/main",
+    "pages/tel/main",
+    "pages/index/main",
+    "pages/logs/main"  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "微信api调用",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#999",
+    "backgroundColor": "#fafafa",
+    "selectedColor": "#333",
+    "borderStyle": "white",
+
+    "list": [{
+      "text": "注册",
+      "pagePath": "pages/home/main",
+      "iconPath": "static/tabs/home.png",
+      "selectedIconPath": "static/tabs/home-active.png"
+    }, {
+      "text": "电话",
+      "pagePath": "pages/tel/main",
+      "iconPath": "static/tabs/orders.png",
+      "selectedIconPath": "static/tabs/orders-active.png"
+    }],
+    "position": "bottom"
+  }
+}
