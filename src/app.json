@@ -1,0 +1,15 @@
+{
+  "pages": [
+  
+    "pages/publish/main",
+    "pages/show/main",
+    "pages/me/main"
+   ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#009688",
+    "navigationBarTitleText": "mpvue",
+    "navigationBarTextStyle": "white"
+  }
+  
+}
