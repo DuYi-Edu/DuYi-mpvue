@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/cloudDB/main",
+    "pages/index/main",
+    "pages/logs/main"  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "cloudDB",
+    "navigationBarTextStyle": "black"
+  }
+ 
+}
